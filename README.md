@@ -17,7 +17,24 @@ Academically, I hold a degree in Systems Analysis and Development, a postgraduat
 
 More than just writing code, I thrive on solving real-world problems through technology. I believe in the transformative power of education and continuous learning, and I’m deeply committed to sharing knowledge—both in the classroom and in the tech community.
 
-<h2> 🛠 &nbsp;Tech Stack</h2>
+🚀 About this GitHub
+This profile is more than just a collection of repositories — it’s a reflection of my journey as a full stack developer and passionate educator. Here, you’ll find projects that combine practical experience, purpose-driven development, and clean, maintainable code.
+
+🧠 What you’ll discover here:
+
+- Real-world applications used by thousands of users
+- Modern architectures focused on scalability and maintainability
+- Practical implementations of SOLID principles and Clean Architecture
+- Automated tests with high coverage and reliability
+- Technical studies, experiments, and proven best practices
+
+I’ve been a professor at the Federal Institute of Education, Science and Technology of Mato Grosso do Sul (IFMS) since 2012, with experience coordinating both technical and higher education programs. My tech stack includes TypeScript, React, React Native, Next.js, Node.js, Docker, AWS, and PostgreSQL — with a strong focus on mobile development, microservices, and micro-frontends.
+
+📬 Let’s connect
+
+If you’d like to collaborate, ask questions, or simply chat, feel free to <a href="mailto:andreviolin@gmail.com">send me an email</a>. I’m always open to great conversations and exciting opportunities.
+
+<h2> ⚡&nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
